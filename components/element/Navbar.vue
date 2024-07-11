@@ -81,7 +81,7 @@
             px="6 lg:0"
           >
             <nuxt-link
-              to="https://afiliados.grilo7.bet/register"
+              to="https://afiliados.grilo7.bet/registro"
               class="flex justify-center items-center w-full sm:w-max px-6 h-12 relative overflow-hidden border border-transparent hover:bg-[#00d400] duration-300 ease-linear after:absolute after:content-[''] after:inset-x-0 after:aspect-square after:scale-0 after:opacity-70 after:origin-center after:duration-300 after:ease-linear after:rounded-full after:top-0 after:left-0 after:bg-[#00d400] bg-[#00d400] rounded-full"
             >
               <span class="relative z-10 text-white"> Inscrever-se </span>

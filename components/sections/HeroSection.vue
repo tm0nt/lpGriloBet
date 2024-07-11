@@ -78,7 +78,7 @@
         <div mt-10 w-full flex max-w-md mx-auto lg-mx-0>
           <div flex sm-flex-row flex-col gap-5 w-full>
             <form
-              action="https://afiliados.grilo7.bet/register"
+              action="https://afiliados.grilo7.bet/registro"
               py-1
               pl-6
               w-full

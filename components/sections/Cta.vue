@@ -50,7 +50,7 @@
           </p>
           <div class="mx-auto max-w-md sm-max-w-xl flex justify-center">
             <nuxt-link
-              to="https://afiliados.grilo7.bet/register"
+              to="https://afiliados.grilo7.bet/registro"
               border="~ transparent hover:[#00d400]"
               un-after="absolute content-empty inset-x-0 aspect-square scale-0 op-70 origin-center duration-300 ease-linear rd-full top-0 left-0 bg-[#00d400] hover:op-100 hover:scale-[2.5]"
               class="outline-none h12 px6 rd-3xl bg-[#00d400] text-white flex items-center overflow-hidden wmax relative"
